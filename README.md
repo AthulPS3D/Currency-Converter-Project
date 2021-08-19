@@ -7,7 +7,7 @@ For converting Currency
 
 ## Demo + Video
 
-Insert gif or link to demo, or video
+https://drive.google.com/file/d/1aITrVnWVpx-5oHQssDw_ppUd-EOAnLCi/view?usp=sharing
 [link to video]
 
   
@@ -38,7 +38,7 @@ It is a Ul based real time currency converter which converts the value of one cu
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  
 ```
 
 Go to the project directory
