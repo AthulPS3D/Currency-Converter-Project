@@ -38,13 +38,13 @@ It is a Ul based real time currency converter which converts the value of one cu
 Clone the project
 
 ```bash
-  
+  https://github.com/AthulPS3D/Currency-Converter-Project.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd New folder
 ```
 and fill the Instructions for running it :)
 
