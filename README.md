@@ -46,7 +46,6 @@ Go to the project directory
 ```bash
   cd New folder
 ```
-and fill the Instructions for running it :)
 
   
 ## Screenshots
