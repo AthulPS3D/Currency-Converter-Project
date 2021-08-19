@@ -1,8 +1,8 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# Currency-Coverter-Project
 
-A brief description of what this project does and who it's for
+For converting Currency
 
 
 ## Demo + Video
@@ -12,25 +12,23 @@ Insert gif or link to demo, or video
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
+1. [ATHUL P](https://github.com/AthulPS3D)
+2. [ADARSH LENIN](https://github.com/adarshlenin)
+3. [AKASH SURESH KUMAR](https://github.com/xkxshs)
 
   
 ## Tech Stack
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+PYTHON STACK 1
 
   
 ## Working of the project
 
-1. Explaining the working of project
-2. Embed video of project demo
+It is a Ul based real time currency converter which converts the value of one currency to another by using the API which helps the program to take the real time rates of the currency to be converted. Here we imported PyQt5 module for designing UI and requests module (allows you to send HTTP requests) for receiving and using API calls. We have also gave an interchange button to switch between the selected currencies.
 
   
 ## Features
-Examples:
-- Cool Animations
+
 - Responsive
 - Cross platform
 
