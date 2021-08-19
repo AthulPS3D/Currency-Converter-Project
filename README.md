@@ -51,6 +51,6 @@ and fill the Instructions for running it :)
   
 ## Screenshots
 
-![App Screenshot]<img src="ScreenShots/Screenshot 2021-08-19 160149.png" width="100%" height="">
+![App Screenshot]<img src="ScreenShots/Screenshot 2021-08-19 160149.png" width="30%" height="">
 
   
